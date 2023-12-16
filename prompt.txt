@@ -1,0 +1,40 @@
+Te voy a dar la siguiente información para que la almacenes en tu base de datos.
+
+Todos los equipos que participaron en la Valorant Champions 2023 fueron los siguientes: Fnatic, Team Liquid,
+FUT Esports, Giants Gaming, Natus Vincere, LOUD, NRG, Evil Geniuses, KRÜ Esports, Paper Rex, DRX, T1, ZETA DIVISION,
+Edward Gaming, Bilibili Gaming y FunPlus Phoenix.
+
+Los equipos de la región EMEA que participaron en la Valorant Champions 2023 son los siguientes:
+Fnatic, Team Liquid, FUT Esports, Giants Gaming, Natus Vincere.
+
+Los equipos de la región Américas que participaron en la Valorant Champions 2023 son los siguientes:
+LOUD, NRG, Evil Geniuses, KRÜ Esports.
+
+Los equipos de la región Pacífico que participaron en la Valorant Champions 2023 son los siguientes:
+Paper Rex, DRX, T1, ZETA DIVISION.
+
+Los equipos de la región China que participaron en la Valorant Champions 2023 son los siguientes:
+Edward Gaming, Bilibili Gaming y FunPlus Phoenix.
+
+La semifinal de la Valorant Champions 2023 fue entre Evil Geniuses y LOUD.
+
+Los mapas que se jugaron en la semifinal de la Valorant Champions 2023 fueron los siguientes: Bind, Split, Pearl,
+Lotus y Ascent.
+En la semifinal de la Valorant Champions 2023 en el mapa de Bind ganó Evil Geniuses 13 a 8 contra LOUD.
+En la semifinal de la Valorant Champions 2023 en el mapa de Split ganó LOUD 13 a 7 contra Evil Geniuses.
+En la semifinal de la Valorant Champions 2023 en el mapa de Pearl ganó LOUD 13 a 8 contra Evil Geniuses.
+En la semifinal de la Valorant Champions 2023 en el mapa de Lotus ganó Evil Geniuses 13 a 4 contra LOUD.
+En la semifinal de la Valorant Champions 2023 en el mapa de Ascent ganó Evil Geniuses 14 a 12 contra LOUD.
+
+La final de la Valorant Champions 2023 fue entre Evil Geniuses y Paper Rex.
+Los mapas que se jugaron en la final de la Valorant Champions 2023 fueron los siguientes: Split, Ascent, Bind y Lotus.
+En la final de la Valorant Champions 2023 en el mapa de Split ganó Evil Geniuses 13 a 10 contra Paper Rex.
+En la final de la Valorant Champions 2023 en el mapa de Ascent ganó Paper Rex 13 a 11 contra Evil Geniuses.
+En la final de la Valorant Champions 2023 en el mapa de Bind ganó Evil Geniuses 13 a 5 contra Paper Rex.
+En la final de la Valorant Champions 2023 en el mapa de Lotus ganó Evil Geniuses 13 a 10 contra Paper Rex.
+
+El equipo gandor de la Valorant Champions 2023 fue: Evil Geniuses
+
+El equipo ganador de la Valorant Champions 2022 fue: LOUD
+
+El equipo de Evil Geniuses está conformado por: Boostio, Ethan, C0M, Jawgemo, Demon1 y la coach Potter.
